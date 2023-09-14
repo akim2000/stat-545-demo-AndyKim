@@ -1,3 +1,3 @@
 # stat-545-demo-AndyKim
-Andy Kim
+Andy Kim  
 I am a scientist that might be a bit lazy
